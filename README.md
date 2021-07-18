@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vuejs, Nuxtjs, NodeJs**
 
-- 👨‍💻 All of my projects are available at [kelvis.codedrop.com.br](kelvis.codedrop.com.br)
+- 👨‍💻 All of my projects are available at [kelvis.codedrop.com.br](http://kelvis.codedrop.com.br)
 
 - 💬 Ask me about **PHP, Laravel, JavaScript**
 
