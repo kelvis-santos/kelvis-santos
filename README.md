@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelvis-santos&label=Profile%20views&color=0e75b6&style=flat" alt="kelvis-santos" /> </p>
 
-- 🔭 I’m currently working on **Rentcars.com**
+- 🔭 I’m currently working on **Rentcars**
 
 - 🌱 I’m currently learning **Vuejs, Nuxtjs, NodeJs**
 
-- 👨‍💻 All of my projects are available at [kelvis.codedrop.com.br](http://kelvis.codedrop.com.br)
+- 👨‍💻 All of my projects are available at [kelvis-santos.dev.br](http://kelvis-santos.dev.br)
 
 - 💬 Ask me about **PHP, Laravel, JavaScript**
 
