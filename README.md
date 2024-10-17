@@ -5,13 +5,9 @@
 
 - 🔭 I’m currently working on **Rentcars**
 
-- 🌱 I’m currently learning **Vuejs, Nuxtjs, NodeJs**
-
-- 👨‍💻 All of my projects are available at [kelvis-santos.dev.br](http://kelvis-santos.dev.br)
+- 🌱 I’m currently learning **Vuejs, Nuxtjs, NodeJs, PHP, Symfony, Typescript, Nestjs, Nextjs**
 
 - 💬 Ask me about **PHP, Laravel, JavaScript**
-
-- 📫 How to reach me **kelvis@codedrop.com.br**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kelvis-santos/](https://www.linkedin.com/in/kelvis-santos/)
 
